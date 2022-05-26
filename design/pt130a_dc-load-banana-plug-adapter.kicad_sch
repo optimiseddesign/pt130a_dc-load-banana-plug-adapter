@@ -5,13 +5,13 @@
   (paper "A4")
 
   (title_block
-    (title "Board Name")
-    (date "2022-01-13")
+    (title "DC Load Banana Plug Adapter")
+    (date "2022-05-26")
     (rev "1A")
-    (company "XXXX Ltd")
-    (comment 1 "PTXXXX")
-    (comment 2 "Stevie Janowski")
-    (comment 3 "Long Johnson")
+    (company "Internal")
+    (comment 1 "PT130A")
+    (comment 2 "Kevin Bibby")
+    (comment 3 "Kevin Bibby")
   )
 
   (lib_symbols
