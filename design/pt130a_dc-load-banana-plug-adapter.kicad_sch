@@ -343,8 +343,8 @@
     (effects (font (size 2.0066 2.0066) (thickness 0.4013) bold) (justify left bottom))
     (uuid 6c59648d-32f4-47d2-b8d6-11c01f8cc2a4)
   )
-  (text "Adapter board for Kikusui 5W series DC Electronic Load (or similar),\nto adapt its screw terminals to shrouded sockets for 4mm Banana Plugs.\nFork connections to DC load screw terminals done using board outline.\n\nSimple design for speed, uses SnapEDA part instead of proper library part;\nhttps://www.snapeda.com/parts/FCR7350R/Cliff/view-part/\nFor Cliff electronic FCR7350 which has the same hole arrangement,\nbut recommend Schutzinger SWEB 8094 AU / RT, SWEB 8094 AU / SW."
-    (at 109.22 68.58 0)
+  (text "Adapter board for Kikusui 5W series DC Electronic Load (or similar),\nto adapt its screw terminals to shrouded sockets for 4mm Banana Plugs.\nFork connections to DC load screw terminals done using board outline,\ndimensions for Kikusui PLZ405W but may fit others, see layout dimensions.\n\nSimple design for speed, uses SnapEDA part instead of proper library part;\nhttps://www.snapeda.com/parts/FCR7350R/Cliff/view-part/\nFor Cliff electronic FCR7350 which has the same hole arrangement,\nbut recommend Schutzinger SWEB 8094 AU / RT, SWEB 8094 AU / SW."
+    (at 109.22 71.12 0)
     (effects (font (size 1.4986 1.4986)) (justify left bottom))
     (uuid 931c8188-1eb4-4903-9218-d54f9ee20205)
   )
