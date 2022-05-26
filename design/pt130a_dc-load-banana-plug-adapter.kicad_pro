@@ -394,7 +394,7 @@
     ]
   },
   "meta": {
-    "filename": "PTXXXX_boardname.kicad_pro",
+    "filename": "pt130a_dc-load-banana-plug-adapter.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -426,7 +426,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "PTXXXX_boardname.net",
+      "netlist": "pt130a_dc-load-banana-plug-adapter.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
