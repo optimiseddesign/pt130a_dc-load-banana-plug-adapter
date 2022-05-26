@@ -428,7 +428,7 @@
       "idf": "",
       "netlist": "pt130a_dc-load-banana-plug-adapter.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../mechanical/pt130a_dc-load-banana-plug-adapter.step",
       "vrml": ""
     },
     "page_layout_descr_file": "optimised_kicad-libraries/environment/OptimisedPD_Titleblock.kicad_wks"
