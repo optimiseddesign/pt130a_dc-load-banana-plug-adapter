@@ -17,4 +17,5 @@
   (lib (name "_kb_resistors")(type "KiCad")(uri "${KIPRJMOD}/optimised_kicad-libraries/symbols/resistors.kicad_sym")(options "")(descr ""))
   (lib (name "_kb_transistors")(type "KiCad")(uri "${KIPRJMOD}/optimised_kicad-libraries/symbols/transistors.kicad_sym")(options "")(descr ""))
   (lib (name "_kb_triac-thyristor")(type "KiCad")(uri "${KIPRJMOD}/optimised_kicad-libraries/symbols/triac-thyristor.kicad_sym")(options "")(descr ""))
+  (lib (name "FCR7350R")(type "KiCad")(uri "${KIPRJMOD}/FCR7350R/FCR7350R.kicad_sym")(options "")(descr ""))
 )
