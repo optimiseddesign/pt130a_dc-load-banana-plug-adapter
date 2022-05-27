@@ -8,7 +8,7 @@ This document gives information and history for the following PCB release:
 |PCB ID                         |PT130A                         |
 |Revision (Layout/PCB)          |1.0                            |
 |Revision (Schematic/BOM)       |1A                             |
-|Release Date                   |2022-05-26                     |
+|Release Date                   |2022-05-27                     |
 |Customer                       |Internal                       |
 
 > Note: This PCB release has been designed by Optimised Product Design Ltd, on behalf of the Customer Company.
@@ -29,18 +29,18 @@ Bottom View:
 
 ## PCB Description
 
-Adapter board for Kikusui 5W series DC Electronic Load (or similar) to adapt screw terminals to Banana Plugs
+Adapter board for Kikusui 5W series DC Electronic Load (or similar, designed for PLZ405W).
+Adapts screw terminals to shrouded sockets for 4mm Banana Plugs
+24A Max, using 2-layer 1oz PCB
 
 ## Release History
 
 ```
 Kevin Bibby / Optimised Product Design Ltd
 PT130A 1.0 1A
-26/05/2022
+27/05/2022
 -------------
-Change1
-Change2
-Change3
+First release, for prototype manufacture
 ```
 
 ## PCB TO-DO List

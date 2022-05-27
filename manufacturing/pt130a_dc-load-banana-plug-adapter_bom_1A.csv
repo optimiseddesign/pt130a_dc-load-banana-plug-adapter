@@ -1,0 +1,20 @@
+Component,References,Quantity Per PCB,FitPart,Value,Description,Manufacturer1,MPN1,Manufacturer2,MPN2,Vendor1,SKU1,Vendor2,SKU2
+1,J2,1,,	SWEB 8094 AU / RT,"RED Banana Test Connector, Jack, PCB Mount, 24 A, 1 kV",Schutzinger,SWEB 8094 AU / RT,,,Farnell,3224813,,
+2,J1,1,,	SWEB 8094 AU / SW,"BLACK Banana Test Connector, Jack, PCB Mount, 24 A, 1 kV",Schutzinger,SWEB 8094 AU / SW,,,Farnell,3224814,,
+3,LOGO1,1,DNF,Optimised Logo,PCB Logo Virtual Part,N/A,N/A,,,,,,
+
+
+
+
+
+Component Groups:,3
+Component Count:,3
+Fitted Components:,2
+Number of PCBs:,1
+Total components:,2
+Schematic Version:,1A
+Schematic Date:,2022-05-27
+PCB Variant:,default
+BoM Date:,2022-05-27 17:57:58
+Schematic Source:,pt130a_dc-load-banana-plug-adapter.kicad_sch
+KiCad Version:,Eeschema (6.0.1)
